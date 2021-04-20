@@ -1,0 +1,25 @@
+.tela {
+  
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    align-content: flex-center;
+    height: 720px;
+    
+}
+
+body{
+    background-color: chocolate;
+}
+
+
+#display {
+    
+    
+   
+  
+   
+    color: aqua;
+}
